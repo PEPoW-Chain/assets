@@ -2,20 +2,19 @@
 
 # PEPoW Community Bounty Program!
 
-**PEPoW Chain** aims to be an open-access, community-driven platform for the global community.
+**PEPoW Chain** aims to be an inclusive and community-driven platform that is accessible to users worldwide.
 
-We endeavor to make PEPoW available to as many countries around the world as possible. We currently support over 15 languages and have no desire to stop here.
+We are committed to making PEPoW available in as many countries as possible, and we currently support over 15 languages. But we're not stopping there!
 
-If you are interested in translating for **PEPoW community**, we are expanding our bounty translation program.
+If you have a passion for translation and want to contribute to the PEPoW community, we have exciting news for you. Our bounty translation program is expanding, and we're looking for talented translators.
 
-PEPoW Core team is offering **US$100** worth in PPoW Tokens per **1,000** source words translated.
+As part of the program, the PEPoW Core team is offering a reward of **US$100** worth of PPoW Tokens for every **1,000 source words translated** .
 
-Our translation bounty is applicable to the following languages:
-Arabic, Chinese (Simplified), Chinese (Traditional), Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazilian),Portuguese (Portugal) Russian, Spanish, Turkish, Vietnamese, and more.
+We are accepting applications for translation in various languages, including Arabic, Chinese (Simplified and Traditional), Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazilian and Portuguese), Russian, Spanish, Turkish, Vietnamese, and more.
 
 ## APPLICATIONS ARE OPEN!
 
-Choose the project to apply and include any previous work examples in your application.
+Simply choose the project you want to work on and provide examples of your previous translation work in your application.
 
 | Project | Status |
 | --- | --- |
@@ -34,18 +33,17 @@ Choose the project to apply and include any previous work examples in your appli
 
 ## TERMS AND CONDITIONS
 
-Translations must be original. Using tools such as google translate will result in being disqualified from the Translation Bounty Program.
+To ensure the quality and authenticity of translations, please note that machine translation tools like Google Translator are not allowed. We value accurate translations that maintain the original content's meaning while adapting it to the target language.
 
-Translations must retain the accuracy of the pre-translated content while translating to their native language.
+Approved translators will be compensated with **PPoW Tokens**, paid retrospectively for completed translations in the previous billing cycle.
 
-Translators will be required to be approved prior to being assigned any translation work.
+Join our Telegram Group at **https://t.me/PEPoWBountyCafe** to apply for the Bounty Program and stay updated.
 
-Translators will be remunerated with PPoW Tokens. paid in arrears to the value of all translations successfully completed in the previous billing cycle.
+From time to time, exceptional translators may also receive additional bonuses as determined by the project management. These bonuses can be awarded for outstanding work, fast delivery, or exceptional translation quality.
 
-Join https://t.me/PEPoWBountyCafe Telegram Group to apply for the Bounty Program.
+If you have any questions or need more information, feel free to reach out to the PEPoW CORE Team.
 
-From time to time, and at the sole discretion of the project management, additional bonuses of an unspecified amount may be paid to translators in respect of outstanding work, speed, or quality in translation services.
+Join us in this exciting opportunity to contribute to the PEPoW community and make a difference!
 
-
-###### *PEPoW Admin Team*
-###### *https://pepow.finance*
+###### PEPoW CORE Team
+###### https://pepow.finance
