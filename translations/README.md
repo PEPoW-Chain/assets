@@ -1,4 +1,3 @@
-![PEPoW Community Translation Bounty Program](https://translation-bounty-program.jpg)
 
 # PEPoW Community Bounty Program!
 
