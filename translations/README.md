@@ -18,13 +18,13 @@ Simply choose the project you want to work on and provide examples of your previ
 | Project | Status |
 | --- | --- |
 | [`Website`](https://crowdin.com/project/pepow-chain) | [![Crowdin](https://badges.crowdin.net/pepow-chain/localized.svg)](https://crowdin.com/project/pepow-chain) |
-| [`Whitepaper`](#) | `comming soon` |
-| [`Design & Guidelines`](#) | `comming soon` |
-| [`Press Releases`](#) | `comming soon` |
-| [`Mining dApp`](#) | `comming soon` |
-| [`Stake dApp`](#) | `comming soon` |
-| [`Swap Interface`](#) | `comming soon` |
-| [`P2E Interface`](#) | `comming soon` |
+| `Whitepaper` | `comming soon` |
+| `Design & Guidelines` | `comming soon` |
+| `Press Releases` | `comming soon` |
+| `Mining dApp` | `comming soon` |
+| `Stake dApp` | `comming soon` |
+| `Swap Interface` | `comming soon` |
+| `P2E Interface` | `comming soon` |
 
 
 
